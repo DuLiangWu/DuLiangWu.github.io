@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "Hello world"
+subtitle:   " \"希望能一直走下去\""
+date:       2018-10-21 23:00:00
+author:     "DuLiangWu"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+希望自己能坚持下去吧
